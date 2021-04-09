@@ -1,0 +1,1 @@
+[2021-04-08 20:49:55] development.ERROR: Cannot set headers after they are sent to the client {"code":"ERR_HTTP_HEADERS_SENT"}
